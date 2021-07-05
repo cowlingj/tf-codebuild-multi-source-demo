@@ -1,8 +1,0 @@
-version: 0.2
-        
-phases:
-  build:
-    on-failure: ABORT
-    commands:
-      - echo "test not implementes"
-      - exit 1
